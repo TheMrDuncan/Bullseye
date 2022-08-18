@@ -1,9 +1,3 @@
-//
-//  TextViews.swift
-//  Bullseye
-//
-//  Created by Carl Duncan on 8/12/22.
-//
 
 import SwiftUI
 
@@ -50,3 +44,4 @@ struct TextViews_Previews: PreviewProvider {
         
     }
 }
+
